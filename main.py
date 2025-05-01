@@ -34,6 +34,7 @@ def _build_msg_body(new_data, old_data):
         if old_fees != fees:
             message += f"{category}:\n    - Previously: INR {old_inr} / {old_eur}\n    - Has been Updated to: INR {new_inr} / {new_eur}\n\n"
 
+    message += "Source: https://india.diplo.de/in-en/service/2633528-2633528?isLocal=false&isPreview=false&openAccordionId=item-2601184-2-panel\n\n"
     message += "Please note that these changes are effective immediately. If you have already made a demand draft (DD) for your visa application, please ensure it matches the updated fee amount before your appointment.\n\n"
     message += "Regards,\nVisa Fee Change Notifier"
     # message += "\n\nThis is an auto generated message. Please do not reply to this email."
