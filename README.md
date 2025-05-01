@@ -1,4 +1,4 @@
-# Visa Fee Tracker
+# German Visa Fee Tracker
 A simple yet powerful tool that monitors German Embassy visa fees and notifies you when changes occur. Never be caught off guard by unexpected fee changes again!
 ## Why This Project Exists
 Visa fee changes can happen without warning, causing issues for applicants who have already prepared demand drafts or budgeted for their applications. This tool:
@@ -8,8 +8,8 @@ Visa fee changes can happen without warning, causing issues for applicants who h
 ## Installation
 1. Clone the repository:   
 ```
-   git clone https://github.com/yourusername/visa-fee-tracker.git   
-   cd visa-fee-tracker
+   git clone https://github.com/Sanket758/german_visa_fee_change_notifier.git
+   cd german_visa_fee_change_notifier
 ```
 2. Install dependencies:   
 ```
